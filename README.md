@@ -1,5 +1,4 @@
 # Bike-Sharing-Demand-Prediction-with-Machine-Learning
-Predicting hourly bike rental demand using machine learning models. Includes data cleaning, EDA, and regression analysis on the Bike Sharing Dataset.
 
 This repository contains a comprehensive data mining project focused on predicting bike rental demand using various machine learning techniques. The project explores the **Bike Sharing Dataset** and applies data preprocessing, exploratory data analysis (EDA), feature engineering, and several regression models to accurately forecast hourly bike rental counts.
 
